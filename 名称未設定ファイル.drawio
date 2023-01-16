@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T13:20:37.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="gMrBGOpYaZix-IVPxJzQ" type="github"><diagram id="5l66U3_GY4oy90wr_A8O">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-16T13:23:27.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="y72S5KRk-AzQYpC6blV3" type="github">
+  <diagram id="-b40opP00CZqNUi7Pyji" name="ページ1">
+    <mxGraphModel dx="430" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-1" value="開始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-3" value="終了" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="270" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IE9pjUHZPNTOEFuHBonJ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="110" as="sourcePoint" />
+            <mxPoint x="125" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="IE9pjUHZPNTOEFuHBonJ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="230" as="sourcePoint" />
+            <mxPoint x="135" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
