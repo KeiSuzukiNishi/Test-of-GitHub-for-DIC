@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T14:37:43.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="uXUSf_7Xl6IQHy1UtPHG" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-16T14:38:33.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="t_X-f6z0b2ExwnBYVt-D" type="github">
   <diagram id="-b40opP00CZqNUi7Pyji" name="ページ1">
     <mxGraphModel dx="452" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="IE9pjUHZPNTOEFuHBonJ-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IE9pjUHZPNTOEFuHBonJ-85" target="IE9pjUHZPNTOEFuHBonJ-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IE9pjUHZPNTOEFuHBonJ-85" value="上限の数を指定する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-85" value="上限の数を指定する&lt;br&gt;開始数字を1とする" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IE9pjUHZPNTOEFuHBonJ-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IE9pjUHZPNTOEFuHBonJ-88" target="IE9pjUHZPNTOEFuHBonJ-91">
