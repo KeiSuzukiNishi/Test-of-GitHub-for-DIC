@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T13:55:27.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="Xtyr4vXwjYq_tbvtqS2h" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-16T14:00:19.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="k1pX9Qaa8UGflo_4Slzb" type="github">
   <diagram id="-b40opP00CZqNUi7Pyji" name="ページ1">
     <mxGraphModel dx="430" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,13 +11,7 @@
           <mxGeometry x="250" y="30" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IE9pjUHZPNTOEFuHBonJ-3" value="終了" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1730" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IE9pjUHZPNTOEFuHBonJ-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="IE9pjUHZPNTOEFuHBonJ-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="125" y="1690" as="sourcePoint" />
-            <mxPoint x="135" y="1580" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="255" y="1250" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IE9pjUHZPNTOEFuHBonJ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IE9pjUHZPNTOEFuHBonJ-8" target="IE9pjUHZPNTOEFuHBonJ-20">
           <mxGeometry relative="1" as="geometry">
@@ -137,8 +131,79 @@
         <mxCell id="IE9pjUHZPNTOEFuHBonJ-58" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="379" y="710" width="40" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IE9pjUHZPNTOEFuHBonJ-62" target="IE9pjUHZPNTOEFuHBonJ-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IE9pjUHZPNTOEFuHBonJ-62" value="カレー用のルーを入れる" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245.5" y="820" width="149" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IE9pjUHZPNTOEFuHBonJ-65" target="IE9pjUHZPNTOEFuHBonJ-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IE9pjUHZPNTOEFuHBonJ-65" target="IE9pjUHZPNTOEFuHBonJ-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="1050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="910" />
+              <mxPoint x="450" y="1045" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-65" value="ルーが溶けて、&lt;br&gt;トロトロになったか" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="233" y="880" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IE9pjUHZPNTOEFuHBonJ-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="233" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="1010" />
+              <mxPoint x="215" y="1010" />
+              <mxPoint x="215" y="910" />
+              <mxPoint x="233" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-67" value="弱火で煮詰める" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="970" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-68" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="940" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-69" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="379" y="920" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IE9pjUHZPNTOEFuHBonJ-70" target="IE9pjUHZPNTOEFuHBonJ-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-70" value="カレー用のルーを入れる" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245.5" y="1030" width="149" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IE9pjUHZPNTOEFuHBonJ-74" target="IE9pjUHZPNTOEFuHBonJ-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IE9pjUHZPNTOEFuHBonJ-74" target="IE9pjUHZPNTOEFuHBonJ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="394.5" y="1265" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="1130" />
+              <mxPoint x="450" y="1265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-74" value="辛いのが好きか" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="233" y="1100" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IE9pjUHZPNTOEFuHBonJ-76" target="IE9pjUHZPNTOEFuHBonJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-76" value="カレー粉を追加する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-77" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1140" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IE9pjUHZPNTOEFuHBonJ-78" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1170" width="40" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
